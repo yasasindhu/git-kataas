@@ -1,6 +1,6 @@
-
+<<<<<<< HEAD
 UPPERCASE GREETING
 MY FAVOURITE GREETING
+=======
 hello
-HELLO
-
+>>>>>>> merge-conflict-branch1

@@ -1,6 +1,7 @@
 This is greeting repo---
 maintainer: randomsort
----# Git Katas
+---
+# Git Katas
 
 ## Quick Start
 
@@ -177,6 +178,3 @@ You can remove testing artifacts, `exercise` directories, with the git clean com
 ```sh
 git clean -ffdX
 ```
-
-Greetings library
-
