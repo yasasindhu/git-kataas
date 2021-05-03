@@ -1,0 +1,6 @@
+[submodule "include"]
+	path = include
+	url = ../remote
+[submodule "component"]
+	path = component
+	url = ../remote
