@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+*.s
+=======
+git_attributes
+*~
+*.swp
+**/exercise
+**/remote
+>>>>>>> 06e1694ff02acc1701db2697ff14837b4b70d745
